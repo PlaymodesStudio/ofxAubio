@@ -22,6 +22,8 @@
 #include <iostream>
 #include <aubio/aubio.h>
 
+using namespace std;
+
 class ofxAubioBlock {
 
     protected:
